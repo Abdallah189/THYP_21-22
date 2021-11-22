@@ -65,4 +65,3 @@
 - http://localhost/omeka-sAPI/items/11
 - http://localhost/omeka-sAPI/items/12
 
-
