@@ -8,8 +8,8 @@
 - http://localhost/omeka-s/api/items/7
 - http://localhost/omeka-s/api/items/8
 
-# lien de projet
+# lien du projet
 - https://github.com/Abdallah189/THYP_21-22/blob/main/projet.md
 
-# lien du vocabulaire
+# lien de vocabulaire
 - https://github.com/Abdallah189/THYP_21-22/blob/main/onto/onto.ttl
