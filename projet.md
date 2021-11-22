@@ -58,4 +58,11 @@
   * Des fonctionnaires du gouvernement et des institutions qui peuvent  m'aider.
   * Des individus créatifs et travailleurs.
 
+## Liste des APIs
+- http://localhost/omeka-sAPI/items/8
+- http://localhost/omeka-sAPI/items/9
+- http://localhost/omeka-sAPI/items/10
+- http://localhost/omeka-sAPI/items/11
+- http://localhost/omeka-sAPI/items/12
+
 
