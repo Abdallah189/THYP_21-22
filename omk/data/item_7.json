@@ -1,0 +1,58 @@
+{
+    "@context": "http://localhost/omeka-s/api-context",
+    "@id": "http://localhost/omeka-s/api/items/7",
+    "@type": [
+        "o:Item",
+        "green:developpementDurable"
+    ],
+    "o:id": 7,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http://localhost/omeka-s/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://localhost/omeka-s/api/resource_classes/127",
+        "o:id": 127
+    },
+    "o:resource_template": {
+        "@id": "http://localhost/omeka-s/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Une forte dépendance au prix des matières premières",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T21:03:01+00:00",
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T21:03:01+00:00",
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [],
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "Une forte dépendance au prix des matières premières"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "type": "literal",
+            "property_id": 4,
+            "property_label": "Description",
+            "is_public": true,
+            "@value": "Sur le plan économique, une filière de recyclage ne peut être viable que si la matière recyclée est compétitive vis-à-vis de la matière vierge. La baisse conjoncturelle du prix des matières premières est défavorable au secteur. La mise en place d'outils économiques incitatifs en faveur des matières recyclées et la prise en compte des externalités négatives liées à l'extraction de matières vierges doivent permettre de contrebalancer les pertes de marché liées à la fluctuation du prix des matières premières."
+        }
+    ]
+}

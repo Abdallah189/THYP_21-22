@@ -8,11 +8,11 @@
 - http://localhost/omeka-s/api/items/7
 - http://localhost/omeka-s/api/items/8
 
-# lien du projet
+# lien vers le projet
 - https://github.com/Abdallah189/THYP_21-22/blob/main/projet.md
 
-# lien de vocabulaire
+# lien vers le vocabulaire
 - https://github.com/Abdallah189/THYP_21-22/blob/main/onto/onto.ttl
 
-# lien de l'exercie 1 
+# lien vers l'exercie 1 
 - https://abdallah189.github.io/THYP_21-22/ex1/
