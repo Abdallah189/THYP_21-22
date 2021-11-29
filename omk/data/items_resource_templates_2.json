@@ -1,0 +1,67 @@
+[
+    {
+        "@context": "http://localhost/omeka-s/api-context",
+        "@id": "http://localhost/omeka-s/api/items/1",
+        "@type": [
+            "o:Item",
+            "green:developpementDurable"
+        ],
+        "o:id": 1,
+        "o:is_public": true,
+        "o:owner": {
+            "@id": "http://localhost/omeka-s/api/users/1",
+            "o:id": 1
+        },
+        "o:resource_class": {
+            "@id": "http://localhost/omeka-s/api/resource_classes/127",
+            "o:id": 127
+        },
+        "o:resource_template": {
+            "@id": "http://localhost/omeka-s/api/resource_templates/2",
+            "o:id": 2
+        },
+        "o:thumbnail": null,
+        "o:title": "Développement durable",
+        "thumbnail_display_urls": {
+            "large": null,
+            "medium": null,
+            "square": null
+        },
+        "o:created": {
+            "@value": "2021-11-21T20:50:52+00:00",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "o:modified": {
+            "@value": "2021-11-21T20:50:52+00:00",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "o:media": [],
+        "o:item_set": [],
+        "o:site": [],
+        "dcterms:title": [
+            {
+                "type": "literal",
+                "property_id": 1,
+                "property_label": "Title",
+                "is_public": true,
+                "@value": "Développement durable"
+            }
+        ],
+        "dcterms:description": [
+            {
+                "type": "literal",
+                "property_id": 4,
+                "property_label": "Description",
+                "is_public": true,
+                "@value": "Le développement durable se définit comme un mode de développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs.Feb"
+            },
+            {
+                "type": "literal",
+                "property_id": 4,
+                "property_label": "Description",
+                "is_public": true,
+                "@value": "« Le développement durable est un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs. »"
+            }
+        ]
+    }
+]

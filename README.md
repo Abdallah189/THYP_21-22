@@ -16,3 +16,6 @@
 
 # lien vers l'exercie 1 
 - https://abdallah189.github.io/THYP_21-22/ex1/
+
+# lien vers le récapitulatif des resource utlisé dans le projet omeka-s
+- https://abdallah189.github.io/THYP_21-22/omk/
